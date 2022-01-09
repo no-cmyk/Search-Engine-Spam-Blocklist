@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Busted%20domains-243001-green">
+<img src="https://img.shields.io/badge/Busted%20domains-223149-green">
 
 # Search Engine Spam Blocklist
 A regularly maintained blocklist to filter out spam and junk domains from search engines results.
