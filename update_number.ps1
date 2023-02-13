@@ -1,5 +1,5 @@
 $ErrorActionPreference = "Inquire"
-cd $home\Desktop\UTILITIES\blocklist
+cd $home\Desktop\Search-Engine-Spam-Blocklist
 $count = 0
 switch -File blocklist.txt {default{++$count}}
 $readme = Get-Content README.md
