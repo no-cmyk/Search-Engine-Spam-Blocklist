@@ -12,7 +12,3 @@ It's mainly thought to be used with search results filtering tools such as Searc
 
 ## Notes
 - Despite our best efforts to keep it updated and tidy, this list may contain false positives. If you notice one, please let us know by opening an issue.
-
-## Instructions
-1. Go to [https://raw.githubusercontent.com/no-cmyk/Search-Engine-Spam-Blocklist/master/blocklist.txt](https://raw.githubusercontent.com/no-cmyk/Search-Engine-Spam-Domains-Blocklist/master/blocklist.txt).
-2. Copy and paste the list into your favorite search result filtering extension.
